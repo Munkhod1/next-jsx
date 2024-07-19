@@ -1,8 +1,4 @@
 const Footer = () => {
-  return (
-    <footer>
-      <h5>Hello</h5>
-    </footer>
-  );
+  return <h1 className="font-sans">Hello world!</h1>;
 };
 export default Footer;
